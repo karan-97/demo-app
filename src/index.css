@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.button-css{
+  background-color: #f69595;
+  color: #fff;
+  font-size: 14px;
+  border: 1px solid #000;
+  padding: 15px 32px;
+  cursor: pointer;
+}
+
+.avatar{
+  border-radius: 50%;
+}
